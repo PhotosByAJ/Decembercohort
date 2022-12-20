@@ -1,7 +1,17 @@
 body{
-    background-color: yellow:
+    background-color: yellow;
 }
 
-h2{
-    font-size: 25px;
+img{
+    width: 250px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
 }
+
+p{
+    font-weight: bold;
+}
+
+
+
